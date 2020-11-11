@@ -1,0 +1,23 @@
+/* body{
+  background-image: url('../images/bg1920x500.jpg');
+  
+} */
+body{
+  background-image: url('../images/bg1.jpg');
+  
+}
+.feature-title{
+  color:red;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.page-footer {
+  background-color: #fff;
+  color: rgb(22, 66, 20);
+  padding: 60px 0 30px;
+}
+.footer-copyright {
+  color: green;
+  padding: 40px 0;
+}
